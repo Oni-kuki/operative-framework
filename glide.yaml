@@ -28,6 +28,6 @@ import:
   - exif
   - mknote
 - package: github.com/segmentio/ksuid
-- package: gopkg.in/ahmdrz/goinsta.v2
+- package: gopkg.in/ahmdrz/goinsta.v3
 - package: gopkg.in/cheggaaa/pb.v1
 - package: syreclabs.com/go/faker
