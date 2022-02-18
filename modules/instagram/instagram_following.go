@@ -6,7 +6,7 @@ import (
 
 	"github.com/graniet/go-pretty/table"
 	"github.com/graniet/operative-framework/session"
-	"gopkg.in/ahmdrz/goinsta.v2"
+	"gopkg.in/ahmdrz/goinsta.v3"
 )
 
 type InstagramFollowing struct {
