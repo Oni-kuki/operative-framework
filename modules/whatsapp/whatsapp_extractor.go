@@ -11,7 +11,7 @@ import (
 
 	"github.com/Baozisoftware/qrcode-terminal-go"
 	"github.com/Rhymen/go-whatsapp"
-	"github.com/graniet/go-pretty/table"
+	"github.com/Oni-kuki/go-pretty/table"
 	"github.com/Oni-kuki/operative-framework/session"
 )
 

@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/graniet/go-pretty/table"
+	"github.com/Oni-kuki/go-pretty/table"
 	"github.com/Oni-kuki/operative-framework/session"
 )
 

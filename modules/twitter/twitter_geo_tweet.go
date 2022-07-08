@@ -2,7 +2,7 @@ package twitter
 
 import (
 	"github.com/ChimeraCoder/anaconda"
-	"github.com/graniet/go-pretty/table"
+	"github.com/Oni-kuki/go-pretty/table"
 	"github.com/Oni-kuki/operative-framework/session"
 	"net/url"
 	"os"

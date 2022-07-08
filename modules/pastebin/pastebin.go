@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/graniet/go-pretty/table"
+	"github.com/Oni-kuki/go-pretty/table"
 	"github.com/Oni-kuki/operative-framework/session"
 )
 

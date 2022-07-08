@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/graniet/go-pretty/table"
+	"github.com/Oni-kuki/go-pretty/table"
 	"github.com/Oni-kuki/operative-framework/session"
 )
 

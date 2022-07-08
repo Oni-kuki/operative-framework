@@ -39,7 +39,7 @@ imports:
   version: e0cdff45b7de56d3ad24ef9871c14fe4238475aa
 - name: github.com/gorilla/websocket
   version: c3e18be99d19e6b3e8f1559eea2c161a665c4b6b
-- name: github.com/graniet/go-pretty
+- name: github.com/Oni-kuki/go-pretty
   version: fba20de8a7d32c1f408d85a81c22f9355093eec8
   subpackages:
   - table

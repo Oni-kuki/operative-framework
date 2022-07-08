@@ -13,7 +13,6 @@ import (
 	"github.com/Oni-kuki/operative-framework/modules/header_retrieval"
 	"github.com/Oni-kuki/operative-framework/modules/image_reverse_search"
 	"github.com/Oni-kuki/operative-framework/modules/info_greffe"
-	"github.com/Oni-kuki/operative-framework/modules/instagram"
 	"github.com/Oni-kuki/operative-framework/modules/ip_information"
 	"github.com/Oni-kuki/operative-framework/modules/linkedin_search"
 	"github.com/Oni-kuki/operative-framework/modules/mac_vendor"

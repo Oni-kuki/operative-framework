@@ -212,7 +212,7 @@
 		},
 		{
 			"checksumSHA1": "1fWdf8nQGWQ+GYLp+EyGPTBKbmM=",
-			"path": "github.com/graniet/go-pretty/table",
+			"path": "github.com/Oni-kuki/go-pretty/table",
 			"revision": "fba20de8a7d32c1f408d85a81c22f9355093eec8",
 			"revisionTime": "2019-04-01T16:30:54Z"
 		},
