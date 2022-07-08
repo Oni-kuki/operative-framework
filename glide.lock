@@ -126,8 +126,6 @@ imports:
   subpackages:
   - unix
   - windows
-- name: gopkg.in/ahmdrz/goinsta.v2
-  version: 1fcb9be7b2c624d2c5c6e81b242d8df853368abb
 - name: gopkg.in/cheggaaa/pb.v1
   version: f907f6f5dd81f77c2bbc1cde92e4c5a04720cb11
 - name: syreclabs.com/go/faker
