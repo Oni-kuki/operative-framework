@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/jedib0t/go-pretty/text"
+	"github.com/graniet/go-pretty/text"
 )
 
 // Render renders the Table in a human-readable "pretty" format. Example:

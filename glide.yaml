@@ -8,7 +8,7 @@ import:
 - package: github.com/chzyer/readline
 - package: github.com/fatih/color
 - package: github.com/gorilla/mux
-- package: github.com/jedib0t/go-pretty
+- package: github.com/graniet/go-pretty
   subpackages:
   - table
 - package: github.com/imroc/req

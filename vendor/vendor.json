@@ -83,7 +83,7 @@
 		},
 		{
 			"checksumSHA1": "Ve4caluG7RqK9NQ5gmfiqCetBuk=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/asaskevich/govalidator",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/asaskevich/govalidator",
 			"path": "github.com/asaskevich/govalidator",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
@@ -166,28 +166,28 @@
 		},
 		{
 			"checksumSHA1": "zdy6XflmESAiFmyptSqpUMfXSyo=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/globalsign/mgo/bson",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/globalsign/mgo/bson",
 			"path": "github.com/globalsign/mgo/bson",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
 		},
 		{
 			"checksumSHA1": "//bXQG4HblBwxHJDIW/PklXAxu0=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/globalsign/mgo/internal/json",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/globalsign/mgo/internal/json",
 			"path": "github.com/globalsign/mgo/internal/json",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
 		},
 		{
 			"checksumSHA1": "JDBFwdFzrn4Z6FSqsff6hgjyaqU=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/go-openapi/errors",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/go-openapi/errors",
 			"path": "github.com/go-openapi/errors",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
 		},
 		{
 			"checksumSHA1": "yFyxGhTjqGHiKUInmPM/bJ/xrsM=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/go-openapi/strfmt",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/go-openapi/strfmt",
 			"path": "github.com/go-openapi/strfmt",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
@@ -212,7 +212,7 @@
 		},
 		{
 			"checksumSHA1": "1fWdf8nQGWQ+GYLp+EyGPTBKbmM=",
-			"path": "github.com/jedib0t/go-pretty/table",
+			"path": "github.com/graniet/go-pretty/table",
 			"revision": "fba20de8a7d32c1f408d85a81c22f9355093eec8",
 			"revisionTime": "2019-04-01T16:30:54Z"
 		},
@@ -230,7 +230,7 @@
 		},
 		{
 			"checksumSHA1": "GWLtRS3vd4QYHk3C86wmQYf/nyc=",
-			"path": "github.com/jedib0t/go-pretty/text",
+			"path": "github.com/graniet/go-pretty/text",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
 		},
@@ -284,21 +284,21 @@
 		},
 		{
 			"checksumSHA1": "T8soMJArSZrYnhmdpAnq1bVxQ6Q=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/mailru/easyjson/buffer",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/mailru/easyjson/buffer",
 			"path": "github.com/mailru/easyjson/buffer",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
 		},
 		{
 			"checksumSHA1": "rp8DNZ88OdWs7zU+5zkoYP51MZM=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/mailru/easyjson/jlexer",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/mailru/easyjson/jlexer",
 			"path": "github.com/mailru/easyjson/jlexer",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
 		},
 		{
 			"checksumSHA1": "4BAeeJ7JywEQyR6GqRrxfSfN2/Q=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/mailru/easyjson/jwriter",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/mailru/easyjson/jwriter",
 			"path": "github.com/mailru/easyjson/jwriter",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"
@@ -335,7 +335,7 @@
 		},
 		{
 			"checksumSHA1": "J+g0oZePWp2zSIISD2dZZKTxmgg=",
-			"origin": "github.com/jedib0t/go-pretty/vendor/github.com/mitchellh/mapstructure",
+			"origin": "github.com/graniet/go-pretty/vendor/github.com/mitchellh/mapstructure",
 			"path": "github.com/mitchellh/mapstructure",
 			"revision": "85fe5d6a7c4de19f1cde97ec6fa118e69e0034e7",
 			"revisionTime": "2019-11-04T02:54:01Z"

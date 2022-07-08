@@ -1,5 +1,5 @@
 # Table
-[![GoDoc](https://godoc.org/github.com/jedib0t/go-pretty/table?status.svg)](https://godoc.org/github.com/jedib0t/go-pretty/table)
+[![GoDoc](https://godoc.org/github.com/graniet/go-pretty/table?status.svg)](https://godoc.org/github.com/graniet/go-pretty/table)
 
 Pretty-print tables into ASCII/Unicode strings.
 
@@ -55,7 +55,7 @@ package main
 import (
     "os"
 
-    "github.com/jedib0t/go-pretty/table"
+    "github.com/graniet/go-pretty/table"
 )
 
 func main() {

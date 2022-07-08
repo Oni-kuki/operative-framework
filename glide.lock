@@ -39,13 +39,13 @@ imports:
   version: e0cdff45b7de56d3ad24ef9871c14fe4238475aa
 - name: github.com/gorilla/websocket
   version: c3e18be99d19e6b3e8f1559eea2c161a665c4b6b
-- name: github.com/jedib0t/go-pretty
+- name: github.com/graniet/go-pretty
   version: fba20de8a7d32c1f408d85a81c22f9355093eec8
   subpackages:
   - table
 - name: github.com/imroc/req
   version: fc8e4797bca7e3a620d883fda1bb1bd8e807327d
-- name: github.com/jedib0t/go-pretty
+- name: github.com/graniet/go-pretty
   version: 1ec860a8cda361fb569dcefd79f058d17845f21b
   subpackages:
   - text

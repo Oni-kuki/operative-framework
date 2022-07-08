@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/jedib0t/go-pretty/text"
+	"github.com/graniet/go-pretty/text"
 )
 
 // Row defines a single row in the Table.

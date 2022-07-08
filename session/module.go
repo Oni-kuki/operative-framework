@@ -2,7 +2,7 @@ package session
 
 import (
 	"errors"
-	"github.com/jedib0t/go-pretty/table"
+	"github.com/graniet/go-pretty/table"
 	"github.com/joho/godotenv"
 	"os"
 	"os/user"

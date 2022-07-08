@@ -3,7 +3,7 @@ package table
 import (
 	"io"
 
-	"github.com/jedib0t/go-pretty/text"
+	"github.com/graniet/go-pretty/text"
 )
 
 // Writer declares the interfaces that can be used to setup and render a table.

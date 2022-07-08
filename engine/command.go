@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/gorilla/mux"
-	"github.com/jedib0t/go-pretty/table"
+	"github.com/graniet/go-pretty/table"
 	"github.com/Oni-kuki/operative-framework/api"
 	"github.com/Oni-kuki/operative-framework/session"
 	"github.com/joho/godotenv"
