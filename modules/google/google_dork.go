@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/graniet/go-pretty/table"
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/session"
 )
 
 type GoogleDorkModule struct {

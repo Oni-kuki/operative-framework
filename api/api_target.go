@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/session"
 )
 
 type TargetsResponse struct {

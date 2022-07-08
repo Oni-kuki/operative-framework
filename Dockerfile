@@ -15,8 +15,8 @@ RUN apk update && \
 	go get github.com/golang/dep/cmd/dep
 
 # copy sources
-COPY . /go/src/github.com/graniet/operative-framework
-WORKDIR /go/src/github.com/graniet/operative-framework
+COPY . /go/src/github.com/Oni-kuki/operative-framework
+WORKDIR /go/src/github.com/Oni-kuki/operative-framework
 
 # fetch dependencies
 # RUN yes no | glide create && glide install --strip-vendor && go build -o /opf .

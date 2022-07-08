@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/graniet/operative-framework/api/core"
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/api/core"
+	"github.com/Oni-kuki/operative-framework/session"
 )
 
 type ARestFul struct {

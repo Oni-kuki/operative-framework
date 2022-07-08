@@ -5,8 +5,8 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/graniet/go-pretty/table"
-	"github.com/graniet/operative-framework/api"
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/api"
+	"github.com/Oni-kuki/operative-framework/session"
 	"github.com/joho/godotenv"
 	"github.com/labstack/gommon/color"
 )

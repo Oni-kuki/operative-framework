@@ -1,7 +1,7 @@
 package abusech
 
 import (
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/session"
 	"path"
 	"strings"
 )

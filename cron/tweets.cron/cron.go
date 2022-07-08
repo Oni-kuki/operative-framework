@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/session"
 	"github.com/joho/godotenv"
 	"github.com/pkg/errors"
 )

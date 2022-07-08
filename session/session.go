@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/chzyer/readline"
-	"github.com/graniet/operative-framework/config"
+	"github.com/Oni-kuki/operative-framework/config"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
 )
 

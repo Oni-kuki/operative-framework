@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/graniet/operative-framework/config"
-	"github.com/graniet/operative-framework/filters"
-	"github.com/graniet/operative-framework/modules"
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/config"
+	"github.com/Oni-kuki/operative-framework/filters"
+	"github.com/Oni-kuki/operative-framework/modules"
+	"github.com/Oni-kuki/operative-framework/session"
 	"github.com/jinzhu/gorm"
 )
 

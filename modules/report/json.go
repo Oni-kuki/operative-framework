@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/session"
 )
 
 type ReportJSON struct {

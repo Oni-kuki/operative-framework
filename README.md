@@ -4,7 +4,7 @@
 
 #### DOWNLOAD LATEST RELEASE
 
-https://github.com/graniet/operative-framework/releases
+https://github.com/Oni-kuki/operative-framework/releases
 
 #### DOCUMENTATION
 

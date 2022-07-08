@@ -1,4 +1,4 @@
-package: github.com/graniet/operative-framework
+package: github.com/Oni-kuki/operative-framework
 import:
 - package: github.com/Baozisoftware/qrcode-terminal-go
 - package: github.com/ChimeraCoder/anaconda

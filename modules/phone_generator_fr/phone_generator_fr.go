@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/session"
 	"github.com/segmentio/ksuid"
 	"gopkg.in/cheggaaa/pb.v1"
 	"syreclabs.com/go/faker"

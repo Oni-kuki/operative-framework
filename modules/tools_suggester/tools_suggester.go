@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/graniet/go-pretty/table"
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/session"
 )
 
 type ToolsSuggesterModule struct {

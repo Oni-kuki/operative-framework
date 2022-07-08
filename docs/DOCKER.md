@@ -1,5 +1,5 @@
 # operative-framework
-[![Go Report Card](https://goreportcard.com/badge/github.com/graniet/operative-framework)](https://goreportcard.com/report/github.com/graniet/operative-framework) [![GoDoc](https://godoc.org/github.com/graniet/operative-framework?status.svg)](http://godoc.org/github.com/graniet/operative-framework) [![GitHub release](https://img.shields.io/github/release/graniet/operative-framework.svg)](https://github.com/graniet/operative-framework/releases/latest) [![LICENSE](https://img.shields.io/github/license/graniet/operative-framework.svg)](https://github.com/graniet/operative-framework/blob/master/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Oni-kuki/operative-framework)](https://goreportcard.com/report/github.com/Oni-kuki/operative-framework) [![GoDoc](https://godoc.org/github.com/Oni-kuki/operative-framework?status.svg)](http://godoc.org/github.com/Oni-kuki/operative-framework) [![GitHub release](https://img.shields.io/github/release/graniet/operative-framework.svg)](https://github.com/Oni-kuki/operative-framework/releases/latest) [![LICENSE](https://img.shields.io/github/license/graniet/operative-framework.svg)](https://github.com/Oni-kuki/operative-framework/blob/master/LICENSE)
 
 ## Installing
 
@@ -34,7 +34,7 @@ If you are running this command often you will probably want to define an alias:
 
 To build the Docker image from sources:
 
-    $ git clone https://github.com/graniet/operative-framework.git
+    $ git clone https://github.com/Oni-kuki/operative-framework.git
     $ cd operative-framework
     $ docker build -t opf . (or make docker)
 

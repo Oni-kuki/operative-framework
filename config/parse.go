@@ -55,7 +55,7 @@ func ParseConfig() (Config, error) {
 
 	if _, err := os.Stat(u.HomeDir + "/.opf/external/"); os.IsNotExist(err) {
 		_, err := git.PlainClone(u.HomeDir+"/.opf/external/", false, &git.CloneOptions{
-			URL: "https://github.com/graniet/operative-framework-default",
+			URL: "https://github.com/Oni-kuki/operative-framework-default",
 		})
 
 		if err != nil {

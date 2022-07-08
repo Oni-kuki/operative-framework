@@ -1,6 +1,6 @@
 package web_archive
 
-import "github.com/graniet/operative-framework/session"
+import "github.com/Oni-kuki/operative-framework/session"
 
 type WebArchiveModule struct {
 	session.SessionModule
