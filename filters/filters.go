@@ -1,10 +1,9 @@
 package filters
 
 import (
-	"github.com/graniet/operative-framework/filters/follower_to_screenName"
-	"github.com/graniet/operative-framework/filters/phone_to_instagram"
-	"github.com/graniet/operative-framework/filters/say_hello"
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/filters/follower_to_screenName"
+	"github.com/Oni-kuki/operative-framework/filters/say_hello"
+	"github.com/Oni-kuki/operative-framework/session"
 )
 
 func LoadFilters(s *session.Session) {
