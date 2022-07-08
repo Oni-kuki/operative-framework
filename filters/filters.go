@@ -8,6 +8,5 @@ import (
 
 func LoadFilters(s *session.Session) {
 	s.Filters = append(s.Filters, say_hello.PushSayHelloFilter(s))
-	s.Filters = append(s.Filters, phone_to_instagram.PushPhoneToInstagramFilter(s))
 	s.Filters = append(s.Filters, follower_to_screenName.PushFollowerScreenNameFilter(s))
 }
