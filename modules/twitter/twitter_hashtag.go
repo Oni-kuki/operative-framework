@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/ChimeraCoder/anaconda"
-	"github.com/Oni-kuki/go-pretty/table"
+	"github.com/jedib0t/go-pretty/table"
 	"github.com/Oni-kuki/operative-framework/session"
 )
 

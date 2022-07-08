@@ -2,7 +2,7 @@ package session
 
 import (
 	"errors"
-	"github.com/Oni-kuki/go-pretty/table"
+	"github.com/jedib0t/go-pretty/table"
 	"os"
 )
 

@@ -3,7 +3,7 @@ package session
 import (
 	"errors"
 	"github.com/gorilla/mux"
-	"github.com/Oni-kuki/go-pretty/table"
+	"github.com/jedib0t/go-pretty/table"
 	"github.com/segmentio/ksuid"
 	"math"
 	"net/http"

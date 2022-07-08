@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	"github.com/Oni-kuki/go-pretty/table"
+	"github.com/jedib0t/go-pretty/table"
 )
 
 type Stream struct {
