@@ -5,8 +5,6 @@ import (
 	"os"
 
 	"github.com/graniet/go-pretty/table"
-	"github.com/graniet/operative-framework/session"
-	"gopkg.in/ahmdrz/goinsta.v3"
 )
 
 type PhoneToInstagram struct {
