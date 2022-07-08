@@ -1,8 +1,8 @@
 package supervisor
 
 import (
-	"github.com/graniet/operative-framework/engine"
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/engine"
+	"github.com/Oni-kuki/operative-framework/session"
 	"github.com/joho/godotenv"
 	"log"
 	"os"
