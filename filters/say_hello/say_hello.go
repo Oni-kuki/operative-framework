@@ -1,7 +1,7 @@
 package say_hello
 
 import (
-	"github.com/graniet/operative-framework/session"
+	"github.com/Oni-kuki/operative-framework/session"
 )
 
 type SayHelloFilter struct {
