@@ -575,12 +575,6 @@
 			"revisionTime": "2019-11-06T07:41:42Z"
 		},
 		{
-			"checksumSHA1": "1h/0pjRgOpGYTHKIVYanZNXBhcA=",
-			"path": "gopkg.in/ahmdrz/goinsta.v3",
-			"revision": "1fcb9be7b2c624d2c5c6e81b242d8df853368abb",
-			"revisionTime": "2019-07-30T11:45:39Z"
-		},
-		{
 			"checksumSHA1": "musC8ZUOSVMDp952SvSMCD+jsrg=",
 			"path": "gopkg.in/cheggaaa/pb.v1",
 			"revision": "f907f6f5dd81f77c2bbc1cde92e4c5a04720cb11",
