@@ -2,7 +2,7 @@ package session
 
 import (
 	"github.com/fatih/color"
-	"github.com/graniet/go-pretty/table"
+	"github.com/Oni-kuki/go-pretty/table"
 	"os"
 	"os/exec"
 	"strings"
